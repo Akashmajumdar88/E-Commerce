@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645490991210",
+    "project_id": "mobistack-d79b1",
+    "storage_bucket": "mobistack-d79b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645490991210:android:20dd7b8f2fe216422e2a13",
+        "android_client_info": {
+          "package_name": "com.example.account"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7gXKujCKQiKYMNtvn_Aeoe5pjtWMVcYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
